@@ -1,0 +1,19 @@
+{
+  "name": "all",
+  "version": "1.0.0",
+  "description": "A simple theme for our Open Source Cloud Library Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nextben@github.com/nextbase/CloudLib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nextbase/CloudLib/issues"
+  },
+  "homepage": "https://github.com/nextbase/CloudLib"
+}
